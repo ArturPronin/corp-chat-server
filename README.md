@@ -1,2 +1,2 @@
-# skill-chat-server
+# corp-chat-server
 Websocket chat server
